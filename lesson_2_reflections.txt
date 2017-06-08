@@ -1,0 +1,4 @@
+Question 1
+How can you use the staging area to make sure you have one commit per logical change?
+Answer
+By using the the git diff and git diff --staged commands to know what you commit last.
