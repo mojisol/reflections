@@ -13,3 +13,16 @@ Question 3
 How do the diagrams help you visualize the branch structure?
 Answer
 It helps to know the different branches in our project by drawing it out
+
+Question 4
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Answer
+It combines two branches to form a master
+
+Question 5
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Answer
+pro 
+It is useful when it initially merges and does all the work at first
+con
+When remerging you have to sort out the merging conflict that occurs from remerging
